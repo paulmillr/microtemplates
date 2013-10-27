@@ -1,0 +1,14 @@
+{
+  "name": "microtemplates",
+  "repo": "paulmillr/microtemplates",
+  "description": "Microtemplates by John Resig (aka _.template).",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}

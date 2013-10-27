@@ -1,0 +1,24 @@
+{
+  "name": "microtemplates",
+  "main": "index.js",
+  "version": "0.1.0",
+  "homepage": "https://github.com/paulmillr/microtemplates",
+  "authors": [
+    "Paul Miller (http://paulmillr.com)"
+  ],
+  "description": "Microtemplates by John Resig (aka _.template).",
+  "keywords": [
+    "template",
+    "templates",
+    "underscore",
+    "resig"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
