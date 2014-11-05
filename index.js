@@ -104,7 +104,7 @@
     };
 
     // Provide the compiled function source as a convenience for precompilation.
-    template.source = 'function(' + (settings.variable || 'obj') + '){\n' + source + '}';
+    template.source = 'function(' + (settings.variable || 'obj') + '){\n' + source + '\n}';
 
     return template;
   };
